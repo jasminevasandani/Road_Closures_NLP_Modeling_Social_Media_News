@@ -1,0 +1,15 @@
+,Header,Text,locations_and_times
+0,MN 19: Flooding.,Between MN 93; North 5th Street and US 169 (near Henderson). Look out for flooding. The road is closed.,"[('North 5th Street', 'GPE'), ('Henderson', 'GPE')]"
+1,MN 93: Flooding.,Between US 169 (Le Sueur) and MN 19; North 5th Street (Henderson). Look out for flooding. The road is closed.,"[('US', 'GPE')]"
+2,MN 95: Road closed.,At Fern Street North (Cambridge). The road is closed. There is a broken water main.,[]
+3,US 75 in both directions: Flooding.,Between 220th Avenue and 230th Avenue (Halstad). Look out for flooding. The road is closed. A detour is in operation.,[]
+4,MN 1: Flooding.,Between North Dakota State Line (Oslo) and 470th Avenue Northwest (near Alvarado). Look out for flooding. The road is closed.,"[('North Dakota', 'GPE'), ('Oslo', 'GPE'), ('Alvarado', 'GPE')]"
+5,MN 41: Flooding.,Between US 169; Chestnut Boulevard (near Carver) and East 1st Street (near Chaska). Look out for flooding. The road is closed. Until today at about 7:00PM CDT.,"[('US', 'GPE'), ('Carver', 'GPE'), ('Chaska', 'GPE'), ('today', 'DATE')]"
+6,MN 317: Flooding.,Between North Dakota State Line and MN 220. Look out for flooding. The road is closed.,"[('North Dakota State Line', 'GPE')]"
+7,MN 220: Flooding.,Between MN 1; 490th Avenue Northwest and 390th Street Northwest (13 miles north of the Oslo area). Look out for flooding. The road is closed.,"[('Oslo', 'GPE')]"
+8,US 75 in both directions: Flooding.,At Northeast 3rd Street (Climax). Look out for flooding. The road is closed.,[]
+9,US 75 in both directions: Flooding.,Between MN 200; 3rd Street East and 250th Avenue (Halstad). Look out for flooding. The road is closed.,[]
+10,MN 67: Road closed to traffic.,Between County Road B1 and 600th Street (1 mile east of the Granite Falls area). The road is closed to traffic. The road surface has collapsed.,[]
+11,MN 74 in both directions: Flooding.,Between County Road 30 (1 mile north of the Elba area) and US 61 (near Minneiska). Look out for flooding. The road is closed. Use a detour where possible.,"[('Elba', 'GPE'), ('US', 'GPE'), ('Minneiska', 'GPE')]"
+12,MN 60: Flooding.,Between US 61 and Hiawatha Drive West (Wabasha). Look out for flooding. The road is closed.,"[('US', 'GPE'), ('61', 'DATE'), ('Hiawatha Drive West', 'GPE')]"
+13,MN 67: Flooding.,Between 558th Street and 255th Avenue (near Granite Falls). Look out for flooding. The road is closed.,[]
